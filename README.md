@@ -36,11 +36,12 @@ A **J.D. Power** survey found that **58% of customers** cited long loan approval
 
 ## **Methodology 🔍**
 
-1. **Exploratory Data Analysis (EDA)**: Analyze the dataset to uncover patterns, correlations, and trends that can inform the model.
-2. **Feature Engineering**: Enhance and prepare the dataset by transforming variables, handling missing values, and creating new features.
-3. **Model Building**: Utilize machine learning algorithms to train models and predict loan approval status.
-4. **Model Evaluation**: Assess the model performance using key evaluation metrics, with a focus on the **F1-score**, as it balances precision and recall, reducing both false positives and false negatives.
-5. **Model Optimization and Deployment**: Fine-tune the best model and deploy it for reliable loan approval predictions.
+1. **Data Loading and Inspection**: Load the dataset and inspect key details like column names, data types, and value ranges to ensure data quality and readiness for analysis.
+2. **Exploratory Data Analysis (EDA)**: Analyze the dataset to uncover patterns, correlations, and trends that can inform the model.
+3. **Feature Engineering**: Enhance and prepare the dataset by transforming variables, handling missing values, and creating new features.
+4. **Model Building**: Utilize machine learning algorithms to train models and predict loan approval status.
+5. **Model Evaluation**: Assess the model performance using key evaluation metrics, with a focus on the F1-score, as it balances precision and recall, reducing both false positives and false negatives.
+6. **Model Optimization and Deployment**: Fine-tune the best model and deploy it for reliable loan approval predictions.
 
 ## **Machine Learning Models Employed:**
 
