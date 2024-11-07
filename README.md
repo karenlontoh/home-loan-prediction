@@ -1,6 +1,6 @@
-# **Home Loan Approval Prediction Analysis 🏠**
+# **Home Loan Approval Prediction 🏠**
 
-Predicting home loan approval decisions using machine learning techniques to streamline the approval process and improve customer satisfaction.
+Create a home loan approval predictor using machine learning techniques to streamline the approval process and improve customer satisfaction, and deploy it through Hugging Face.
 
 ## **Introduction 🏡**
 
