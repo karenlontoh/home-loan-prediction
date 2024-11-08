@@ -49,7 +49,7 @@ A **J.D. Power** survey found that **58% of customers** cited long loan approval
 - Support Vector Machine (SVM)
 - Decision Tree
 - Random Forest
-- XGBoost**
+- XGBoost
 
 ## **Model Analysis 🧮**
 
